@@ -1,0 +1,45 @@
+@import "nav.css";
+@import "video.css";
+body{
+    background-color: black;
+    color:#fff;
+}
+#Intro-tag {
+    width:100%;
+    height:3rem;
+   padding:700px 50px 75px;
+   margin-top: 10rem;
+    background-color: #003366;
+}
+#Intro-tag h1{
+    font-size:250px;
+    text-align: center;
+}
+section{
+    padding:400px 50px 75px;
+}
+#first{
+    
+    margin-top:-880px;
+}
+#seconnd{
+    
+    margin-top:-1.5em;
+}
+#third{
+    
+    margin-top:70px;
+}
+/*Video*/
+#left-half{
+    background-color: #003366;
+  position: absolute;
+  left: 0px;
+  width: 50%;
+}
+#right-half{
+    background-color: #2B0933;
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
